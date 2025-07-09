@@ -1,0 +1,6 @@
+Name,Store_Location,Product_Category,Product_ID,Gender,Total_Sales_Generated,Discount_Applied,Date
+Anil Singh,Bangalore,Electronics,8560-A,Male,816.58,14.84,2025-07-09
+Rahul Verma,Bangalore,Electronics,3174-3,Male,908.22,47.44,2025-07-09
+Deepika Verma,Chennai,Grocery,9074-A,Female,354.13,36.04,2025-07-09
+Meera Patel,Chennai,Grocery,8089-3,Female,565.63,5.64,2025-07-09
+Anil Sharma,Bangalore,Grocery,9177-A,Male,189.34,21.15,2025-07-09
